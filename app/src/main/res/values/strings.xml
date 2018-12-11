@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnleashTheBeast</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notification">Notification</string>
+    <string name="plank_workout">null</string>
+</resources>
